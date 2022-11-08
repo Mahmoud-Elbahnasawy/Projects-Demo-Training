@@ -1,0 +1,9 @@
+Requirements
+1 - make an etl simple process to get data from two sources(API/EXCEL) into a Postgresql database
+Steps of work
+1 - requesting an api to get some data from
+2 - reading a csv file
+3 - joining
+4- simple filtration
+5 - connecting to the datavbase
+5 - inserting the result into database
