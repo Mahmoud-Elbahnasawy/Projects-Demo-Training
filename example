@@ -1,0 +1,25 @@
+{"sourceName" : "S3_bucket",
+"inputFileType" : "csv",
+ "delimiter" : "|",
+ "inputScheman" : 
+ [
+     {
+         "column_name" : "IMSI",
+         "column_type": "stringType",
+         "isNullable":"False"
+     }
+     ,
+     {
+        "column_name" : "IMEI",
+         "column_type": "stringType",
+         "isNullable":"True" 
+     }
+     ,
+     {
+        "column_name" : "serial",
+         "column_type": "stringType",
+         "isNullable":"True" 
+     }
+ ]
+
+}

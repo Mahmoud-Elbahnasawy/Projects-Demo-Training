@@ -1,0 +1,15 @@
+{
+ 
+    "Batch_id" : ["int64",null],
+    "total_rows_count" : ["int64" , "null"] ,
+    "Year" : ["int64" , "null"] ,
+    "Industry_aggregation_NZSIOC" : ["object" , "8"] ,
+    "Industry_code_NZSIOC" : ["object" , "5"] ,
+    "Industry_name_NZSIOC" : ["object" , "50"] ,
+    "Units" : ["object" , "20"] ,
+    "Variable_code" : ["object" , "3"] , 
+    "Variable_name" : ["object" , "30"] ,
+    "Variable_category" : ["object" , "40"] ,
+    "value" : ["int64" , "null"] ,
+    "Industry_code_ANZSIC06" : ["object" , "40"]
+}
